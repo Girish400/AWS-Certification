@@ -32,7 +32,7 @@
 
 >[Exam Practice Questions - Whizlabs.com](https://www.whizlabs.com/)
 
->[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS/blob/master/AWS/AWS%20MD%20files/hello.pdf)
+>[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/hello.pdf)
 
 >[O'reilly Practice Tests](https://www.oreilly.com/library/view/aws-certified-solutions/9781119558439/)
 
