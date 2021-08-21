@@ -32,7 +32,7 @@
 
 >[Exam Practice Questions - Whizlabs.com](https://www.whizlabs.com/)
 
->[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/hello.pdf)
+>[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/Practice%20Papers/hello.pdf)
 
 >[O'reilly Practice Tests](https://www.oreilly.com/library/view/aws-certified-solutions/9781119558439/)
 
@@ -42,9 +42,9 @@
  
  ### Flashcards 
 
->[Flashcards by Anthony - Download PDF](https://github.com/Girish400/AWS/blob/master/AWS/AWS%20MD%20files/Flash%20Cards%201.pdf)
+>[Flashcards by Anthony - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/Flash%20Cards/01%20Anthony-FlashCards.pdf)
 
->[Flashcards by Thomas - Download PDF](https://github.com/Girish400/AWS/blob/master/AWS/AWS%20MD%20files/Flash%20Cards%202.pdf)
+>[Flashcards by Thomas - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/Flash%20Cards/TomHasslet-FlashCards.pdf)
 
 >[Flashcards - A Cloud Guru](https://www.brainscape.com/packs/a-cloud-guru-aws-solutions-architect-associate-exam-8796087)
 
