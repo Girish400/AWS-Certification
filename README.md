@@ -1,6 +1,6 @@
 ## :sparkles: Helpful Links :sparkles:
 
-<img align="right"  src="https://github.com/Girish400/AWS/blob/master/AWS%20Logo.png">
+<img align="right"  src="https://github.com/Girish400/AWS-Certification/blob/master/Practice%20Papers/AWS%20Logo.png">
 
 
 ### AWS   
