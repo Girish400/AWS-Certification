@@ -33,11 +33,9 @@
   
 ### Practice Questions  
 
->[Exam Practice Questions - Whizlabs.com](https://www.whizlabs.com/)
+>[MUST have - Exam Practice Questions - Whizlabs.com](https://www.whizlabs.com/)
 
->[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/Practice%20Papers/hello.pdf)
-
->[More Practice Papers](https://github.com/Girish400/AWS-Certification/tree/master/Practice%20Papers)
+>[More Practice Papers PDF](https://github.com/Girish400/AWS-Certification/tree/master/Practice%20Papers)
 
 >[O'reilly Practice Tests](https://www.oreilly.com/library/view/aws-certified-solutions/9781119558439/)
 
