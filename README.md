@@ -35,6 +35,8 @@
 
 >[672 Exam Practice Questions - Download PDF](https://github.com/Girish400/AWS-Certification/blob/master/Practice%20Papers/hello.pdf)
 
+>[More Practice Papers](https://github.com/Girish400/AWS-Certification/tree/master/Practice%20Papers)
+
 >[O'reilly Practice Tests](https://www.oreilly.com/library/view/aws-certified-solutions/9781119558439/)
 
 >[A Cloud Guru - Practice Tests](https://www.udemy.com/aws-certified-solutions-architect-associate-practice-tests/learn/v4/content)
