@@ -4,6 +4,7 @@
 
 
 ### AWS   
+>[Certified Solutions Architect - Associate homepage](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
 
 >[AWS CSA BluePrint](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_blueprint.pdf)
 
@@ -68,6 +69,7 @@
 ### Study Guide
 
 >[AWS Certified Solutions Architect Official Study Guide](https://github.com/itspawanbhardwaj/AWS-Certified-Solutions-Architect-Associate-2019/blob/master/book/AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf)
+
 
 
 
